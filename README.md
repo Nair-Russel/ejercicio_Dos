@@ -1,4 +1,4 @@
-# ejercicio_Dos
+# Nair.De.La.Cruz.Chate-Ejercicio_Dos
 
 import java.util.Scanner;
 
